@@ -1,0 +1,22 @@
+<div id="vinagecko-promotions">
+	<div class="vinagecko-content">
+		<div class="vinagecko-content-inner">
+			<h3>Hello guys!</h3>
+			<p><strong>For only $149</strong>, you get <strong>80+ Joomla Extensions</strong> and <strong>28+ Joomla Templates</strong> in 12 months. Total worth up to <strong>$2000</strong>.</p>
+			<a href="http://xetula.com/oto-tu-lai" title="Xe Ô tô tự lái" style="display: none;">Xe Ô tô tự lái</a>
+			<a href="http://xetula.com/oto-co-lai" title="Xe Ô tô có lái" style="display: none;">Xe Ô tô có lái</a>
+			<a href="http://vinagecko.net" title="VinaGecko.net" style="display: none;">VinaGecko.net</a>
+			<a href="http://vinademo.biz" title="Vinademo.biz" style="display: none;">Vinademo.biz</a>
+			<a href="http://linhanhkids.com/" title="Đồ chơi an toàn cho bé" style="display: none;">Đồ chơi an toàn cho bé</a>
+		</div>
+		<div class="vinagecko-buy-now">
+			<a target="_blank" href="http://vinagecko.com/join-now/levels">JOIN US TODAY FOR $149</a>
+		</div>
+	</div>
+	<div class="vinagecko-button">
+		<a href="http://vinagecko.com/join-now/levels" target="_blank">
+			<span>ONLY</span>
+			<strong>$149</strong>
+		</a>
+	</div>
+</div>

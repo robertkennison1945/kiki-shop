@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.6" type="plugin" method="upgrade" group="system">
+	<name>System - VinaGecko Promotions</name>
+	<author>VinaGecko.com</author>
+	<creationDate>October 20, 2016</creationDate>
+	<copyright>Copyright (c) 2016 VinaGecko.com. All rights reserved.</copyright>
+	<authorEmail>support@vinagecko.com</authorEmail>
+	<authorUrl>www.VinaGecko.come</authorUrl>
+	<version>1.0</version>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<description>This plugin will display promotions.</description>
+	
+	<files>
+		<folder>assets</folder>
+		<filename plugin="vinagecko">vinagecko.php</filename>		
+	</files>
+	
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field
+					name="promotions"
+					type="text"
+					default="http://vinagecko.net/promotions/"
+					label="Promotions Link"
+					description="Enter Promotions Link" />
+				<field 
+					name="mainColor" 
+					type="color" 
+					size="4" 
+					default="#62A9DD" 
+					label="Main Color" 
+					description="Set main color for background, button, text ..."/>
+				<field
+					name="customStyle"
+					type="textarea" 
+					rows="3"
+					label="Custom CSS"
+					description="Write your custom CSS Code" />
+			</fieldset>
+		</fields>
+	</config>
+	
+</extension>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension>
+	<name>Vina Boloba</name>
+	<folder>vina_boloba</folder>
+	<creationDate>September 30, 2015</creationDate>
+	<version>1.0.0</version>
+	<image>http://joomla.vinagecko.net/t/vina_boloba/vina_boloba.jpg</image>
+	<demo>http://joomla.vinagecko.net/i/vina_boloba/</demo>
+	<download>http://themeforest.net/item/vina-boloba-digital-joomla-virtuemart-template/13014525?ref=VinaWebSolutions</download>
+	<license>Commercial</license>
+	<description>Vina Boloba - Digital Joomla - VirtueMart Template</description>
+</extension>
